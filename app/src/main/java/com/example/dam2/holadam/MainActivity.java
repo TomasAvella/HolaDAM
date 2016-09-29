@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         TextView nuevotexto = new TextView(this);
         nuevotexto.setText("Hola DAM desde Java");
-        setContentView(nuevotexto)
+        setContentView(nuevotexto);
     }
 }
